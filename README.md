@@ -4,7 +4,7 @@ This project provides a Python-based implementation for tracking the median of a
 
 ---
 
-## 📌 Features
+##  Features
 
 - Calculates real-time median from a stream of integers
 - Detects outliers using 3-sigma rule (3 × standard deviation)
@@ -14,7 +14,7 @@ This project provides a Python-based implementation for tracking the median of a
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Heaps for Median Tracking**:  
    - Max-heap for the left half
